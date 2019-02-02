@@ -1,5 +1,5 @@
 # twitter-sentiment-analysis<br>
-It is small project doing twitter sentiment analysis using tweepy , textblob . It uses matplotlib.pyplot for plotting the pie chart . <br> 
+It is small project doing twitter sentiment analysis using tweepy , textblob . It uses matplotlib.pyplot for plotting the pie chart<br> 
 Steps to run: <br />  
 1.open the directory in terminal<br />  
 2.write python script.py<br />  
